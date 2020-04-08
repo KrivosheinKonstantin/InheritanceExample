@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="B1" Collapsed="true">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgAAAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="B2" Collapsed="true">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="B3" Collapsed="true">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D1" Collapsed="true">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <InheritanceLine Type="B1">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.079" Y="0.154" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <InheritanceLine Type="B2">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-1.338" Y="0.123" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAMAAAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D2" Collapsed="true">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAQAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D3" Collapsed="true">
+    <Position X="1.5" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="B3">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="-1.525" Y="0.018" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>task 1(v7).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
